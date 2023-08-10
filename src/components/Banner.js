@@ -1,4 +1,4 @@
-
+import "./styling.css";
 function Banner() {
   return (
     <header>
